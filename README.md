@@ -1,6 +1,6 @@
 # whtasapp_ui
 
-A new Flutter project.
+This Build works as WhatsApp App on Smaller Screen Sizes and WhatsApp Web on Bigger Screen Sizes!
 
 ## Getting Started
 
